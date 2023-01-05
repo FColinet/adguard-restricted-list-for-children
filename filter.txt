@@ -5,11 +5,13 @@
 ! Block all
 ||*^$ctag=user_child
 
-! Allowed OS domains for updates
+! Allowed OS updates and drivers
 @@||alpinelinux.org^$ctag=user_child
 @@||debian.org^$ctag=user_child
 @@||ubuntu.com^$ctag=user_child
 @@||microsoft.com^$ctag=user_child
+@@||intel.fr^$ctag=user_child
+@@||nvidia.com^$ctag=user_child
 
 ! Allowed mail services
 @@||google.com^$ctag=user_child
