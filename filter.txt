@@ -36,6 +36,7 @@
 @@||xboxlive.com^$ctag=user_child
 @@||mojang.com^$ctag=user_child
 @@||steampowered.com^$ctag=user_child
+@@||steamserver.net^$ctag=user_child
 
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
