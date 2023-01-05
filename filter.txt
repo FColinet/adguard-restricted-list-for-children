@@ -17,6 +17,7 @@
 ! Allowed study services
 @@||duolingo.com^$ctag=user_child
 @@||khanacademy.org^$ctag=user_child
+@@||classe-numerique.fr^$ctag=user_child
 
 ! Allowed media services
 @@||youtubekids.com^$ctag=user_child
