@@ -13,12 +13,11 @@
 @@||intel.fr^$ctag=user_child
 @@||nvidia.com^$ctag=user_child
 
-! Allowed CDN
+! Allowed google services
+@@||google.com^$ctag=user_child
+@@||google.fr^$ctag=user_child
 @@||googleapis.com^$ctag=user_child
 @@||gstatic.com^$ctag=user_child
-
-! Allowed mail services
-@@||google.com^$ctag=user_child
 
 ! Allowed study services
 @@||duolingo.com^$ctag=user_child
