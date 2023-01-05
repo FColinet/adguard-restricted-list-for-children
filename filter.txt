@@ -55,3 +55,4 @@
 
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
+@@||discord.gg^$ctag=user_child
