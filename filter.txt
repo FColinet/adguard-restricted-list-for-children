@@ -39,7 +39,9 @@
 ! Allowed game services
 @@||live.com^$ctag=user_child
 @@||xboxlive.com^$ctag=user_child
+@@||xboxab.com^$ctag=user_child
 @@||mojang.com^$ctag=user_child
+@@||minecraftservices.com^$ctag=user_child
 @@||steampowered.com^$ctag=user_child
 @@||steamserver.net^$ctag=user_child
 @@||steamstatic.com^$ctag=user_child
