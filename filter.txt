@@ -13,6 +13,9 @@
 @@||intel.fr^$ctag=user_child
 @@||nvidia.com^$ctag=user_child
 
+! Allowed CDN
+@@||googleapis.com^$ctag=user_child
+
 ! Allowed mail services
 @@||google.com^$ctag=user_child
 
