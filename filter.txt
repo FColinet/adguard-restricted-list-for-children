@@ -28,6 +28,7 @@
 @@||google.fr^$ctag=user_child
 @@||googleapis.com^$ctag=user_child
 @@||gstatic.com^$ctag=user_child
+@@||meet.google.com^$ctag=user_child
 
 ! Allowed study services
 @@||duolingo.com^$ctag=user_child
