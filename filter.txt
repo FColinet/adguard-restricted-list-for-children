@@ -15,6 +15,7 @@
 
 ! Allowed CDN
 @@||googleapis.com^$ctag=user_child
+@@||gstatic.com^$ctag=user_child
 
 ! Allowed mail services
 @@||google.com^$ctag=user_child
