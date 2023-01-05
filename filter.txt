@@ -21,6 +21,7 @@
 ! Allowed media services
 @@||youtubekids.com^$ctag=user_child
 @@||spotify.com^$ctag=user_child
+@@||deezer.com^$ctag=user_child
 @@||netflix.com^$ctag=user_child
 
 ! Allowed game services
