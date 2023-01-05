@@ -1,0 +1,13 @@
+!
+! Title: AdGuard restricted list for children
+!
+
+||*^$ctag=user_child
+
+@@||google.com^$ctag=user_child
+@@||microsoft.com^$ctag=user_child
+@@||duolingo.com^$ctag=user_child
+@@||khanacademy.org^$ctag=user_child
+@@||youtubekids.com^$ctag=user_child
+@@||steampowered.com^$ctag=user_child
+@@||discord.com^$ctag=user_child

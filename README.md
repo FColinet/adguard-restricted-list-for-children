@@ -1,1 +1,1 @@
-# adguard-restrictive-children-list
+# Adguard restricted list for children
