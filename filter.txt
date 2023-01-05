@@ -10,9 +10,13 @@
 @@||debian.org^$ctag=user_child
 @@||ubuntu.com^$ctag=user_child
 @@||microsoft.com^$ctag=user_child
+@@||intel.com^$ctag=user_child
 @@||intel.fr^$ctag=user_child
 @@||nvidia.com^$ctag=user_child
 @@||logitech.com^$ctag=user_child
+
+! Allowed browsers
+@@||bravesoftware.com^$ctag=user_child
 
 ! Allowed certs
 @@||digicert.com^$ctag=user_child
