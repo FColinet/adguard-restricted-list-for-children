@@ -1,0 +1,1 @@
+# adguard-restrictive-children-list
