@@ -18,6 +18,7 @@
 
 ! Allowed browsers
 @@||bravesoftware.com^$ctag=user_child
+@@||brave.com^$ctag=user_child
 
 ! Allowed certs
 @@||digicert.com^$ctag=user_child
