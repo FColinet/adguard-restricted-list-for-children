@@ -27,6 +27,7 @@
 @@||ponytail.fr^$ctag=user_child
 
 ! Allowed media services
+@@||googlevideo.com^$ctag=user_child
 @@||youtubekids.com^$ctag=user_child
 @@||spotify.com^$ctag=user_child
 @@||deezer.com^$ctag=user_child
