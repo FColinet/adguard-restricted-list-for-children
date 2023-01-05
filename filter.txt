@@ -13,6 +13,9 @@
 @@||intel.fr^$ctag=user_child
 @@||nvidia.com^$ctag=user_child
 
+! Allowed certs
+@@||digicert.com^$ctag=user_child
+
 ! Allowed google services
 @@||google.com^$ctag=user_child
 @@||google.fr^$ctag=user_child
@@ -33,10 +36,12 @@
 @@||netflix.com^$ctag=user_child
 
 ! Allowed game services
+@@||live.com^$ctag=user_child
 @@||xboxlive.com^$ctag=user_child
 @@||mojang.com^$ctag=user_child
 @@||steampowered.com^$ctag=user_child
 @@||steamserver.net^$ctag=user_child
+@@||steamstatic.com^$ctag=user_child
 
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
