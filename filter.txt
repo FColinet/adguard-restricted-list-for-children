@@ -2,12 +2,27 @@
 ! Title: AdGuard restricted list for children
 !
 
+! Block all
 ||*^$ctag=user_child
 
-@@||google.com^$ctag=user_child
+! Allowed OS domains for updates
+@@||alpinelinux.org^$ctag=user_child
+@@||debian.org^$ctag=user_child
+@@||ubuntu.com^$ctag=user_child
 @@||microsoft.com^$ctag=user_child
+
+! Allowed mail services
+@@||google.com^$ctag=user_child
+
+! Allowed study services
 @@||duolingo.com^$ctag=user_child
 @@||khanacademy.org^$ctag=user_child
+
+! Allowed media services
 @@||youtubekids.com^$ctag=user_child
+
+! Allowed game services
 @@||steampowered.com^$ctag=user_child
+
+! Allowed chat services
 @@||discord.com^$ctag=user_child
