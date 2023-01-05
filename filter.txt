@@ -33,6 +33,7 @@
 @@||netflix.com^$ctag=user_child
 
 ! Allowed game services
+@@||mojang.com^$ctag=user_child
 @@||steampowered.com^$ctag=user_child
 
 ! Allowed chat services
