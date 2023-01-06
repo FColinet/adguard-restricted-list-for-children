@@ -53,8 +53,8 @@
 @@||steampowered.com^$ctag=user_child
 @@||steamserver.net^$ctag=user_child
 @@||steamstatic.com^$ctag=user_child
-@@||nianticlabs.com^$ctag=user_child
-@@||superawesome.com^$ctag=user_child
+@@||*.nianticlabs.com^$ctag=user_child
+@@||*.superawesome.com^$ctag=user_child
 
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
