@@ -29,6 +29,8 @@
 @@||googleapis.com^$ctag=user_child
 @@||gstatic.com^$ctag=user_child
 @@||meet.google.com^$ctag=user_child
+! Allowed Google Play Apps Update
+@@||gvt1.com^$ctag=user_child
 
 ! Allowed study services
 @@||duolingo.com^$ctag=user_child
@@ -53,8 +55,8 @@
 @@||steampowered.com^$ctag=user_child
 @@||steamserver.net^$ctag=user_child
 @@||steamstatic.com^$ctag=user_child
-@@||*.nianticlabs.com^$ctag=user_child
-@@||*.superawesome.com^$ctag=user_child
+@@||nianticlabs.com^$ctag=user_child
+@@||superawesome.com^$ctag=user_child
 
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
