@@ -61,3 +61,7 @@
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
 @@||discord.gg^$ctag=user_child
+
+! Allowed NTP Servers
+@@||android.pool.ntp.org^$ctag=user_child
+@@||fr.pool.ntp.org^$ctag=user_child
