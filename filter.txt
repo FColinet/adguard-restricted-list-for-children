@@ -57,6 +57,7 @@
 @@||steamstatic.com^$ctag=user_child
 @@||nianticlabs.com^$ctag=user_child
 @@||superawesome.com^$ctag=user_child
+@@||superawesome.tv^$ctag=user_child
 
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
