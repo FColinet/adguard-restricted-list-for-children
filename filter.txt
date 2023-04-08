@@ -63,6 +63,7 @@
 @@||playrix.com^$ctag=user_child
 @@||nintendo.net^$ctag=user_child
 @@||nintendo.com^$ctag=user_child
+@@||playfabapi.com^$ctag=user_child
 
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
