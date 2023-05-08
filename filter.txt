@@ -46,6 +46,26 @@
 @@||spotify.com^$ctag=user_child
 @@||deezer.com^$ctag=user_child
 @@||netflix.com^$ctag=user_child
+@@||ash.spotify.com^$ctag=user_child
+@@||ash1.spotify.com^$ctag=user_child
+@@||ash2.spotify.com^$ctag=user_child
+@@||weblb-wg.^$ctag=user_child
+@@||ap.spotify.com^$ctag=user_child
+@@||api-spotify.com^$ctag=user_child
+@@||api-partner.spotify.com^$ctag=user_child
+@@||api-tv.spotify.com^$ctag=user_child
+@@||apresolve.spotify.com^$ctag=user_child
+@@||audio-sp.spotify.com^$ctag=user_child
+@@||audio-sp-^$ctag=user_child
+@@||dealer.spotify.com^$ctag=user_child
+@@||dealer-ssl.spotify.com^$ctag=user_child
+@@||gslb.spotify.com^$ctag=user_child
+@@||open.scdn.co^$ctag=user_child
+@@||open.spotify.com^$ctag=user_child
+@@||play.spotify.com^$ctag=user_child
+@@||spclient.spotify.com^$ctag=user_child
+@@||sto3.spotify.com^$ctag=user_child
+@@||wg.spotify.com^$ctag=user_child
 
 ! Allowed game services
 @@||live.com^$ctag=user_child
