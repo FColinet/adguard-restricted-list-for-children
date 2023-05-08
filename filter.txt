@@ -66,6 +66,11 @@
 @@||spclient.spotify.com^$ctag=user_child
 @@||sto3.spotify.com^$ctag=user_child
 @@||wg.spotify.com^$ctag=user_child
+@@||mineplex.com^$ctag=user_child
+@@||audio4-ak-spotify-com.akamaized.net^$ctag=user_child
+@@||audio4-fa.scdn.co^$ctag=user_child
+@@||i.scdn.co^$ctag=user_child
+@@||t.scdn.co^$ctag=user_child
 
 ! Allowed game services
 @@||live.com^$ctag=user_child
