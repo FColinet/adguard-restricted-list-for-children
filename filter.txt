@@ -36,6 +36,7 @@
 @@||duolingo.com^$ctag=user_child
 @@||khanacademy.org^$ctag=user_child
 @@||classe-numerique.fr^$ctag=user_child
+@@||rallye-lecture.fr^$ctag=user_child
 @@||ponytail.fr^$ctag=user_child
 @@||huit.re^$ctag=user_child
 @@||reseau-canope.fr^$ctag=user_child
