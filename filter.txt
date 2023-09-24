@@ -42,6 +42,7 @@
 @@||huit.re^$ctag=user_child
 @@||reseau-canope.fr^$ctag=user_child
 @@||safesha.re^$ctag=user_child
+@@||safeshare.tv^$ctag=user_child
 @@||learningapps.org^$ctag=user_child
 
 ! Allowed media services
