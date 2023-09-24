@@ -31,6 +31,7 @@
 @@||meet.google.com^$ctag=user_child
 ! Allowed Google Play Apps Update
 @@||gvt1.com^$ctag=user_child
+@@||gvt2.com^$ctag=user_child
 
 ! Allowed study services
 @@||duolingo.com^$ctag=user_child
