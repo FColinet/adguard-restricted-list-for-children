@@ -45,6 +45,7 @@
 @@||safeshare.tv^$ctag=user_child
 @@||learningapps.org^$ctag=user_child
 @@||educartable.com^$ctag=user_child
+@@||edumoov.com^$ctag=user_child
 
 ! Allowed media services
 @@||googlevideo.com^$ctag=user_child
