@@ -15,6 +15,7 @@
 @@||intel.fr^$ctag=user_child
 @@||nvidia.com^$ctag=user_child
 @@||logitech.com^$ctag=user_child
+@@||manageengine.eu^$ctag=user_child
 
 ! Allowed browsers
 @@||bravesoftware.com^$ctag=user_child
