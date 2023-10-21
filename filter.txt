@@ -21,6 +21,7 @@
 ! Allowed ManageEngine
 @@||manageengine.eu^$ctag=user_child
 @@||zohocdn.com^$ctag=user_child
+@@||zoho.eu^$ctag=user_child
 
 ! Allowed browsers
 @@||bravesoftware.com^$ctag=user_child
