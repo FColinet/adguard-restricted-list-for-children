@@ -19,6 +19,7 @@
 @@||logitech.com^$ctag=user_child
 
 ! Allowed ManageEngine
+@@||manageengine.com^$ctag=user_child
 @@||manageengine.eu^$ctag=user_child
 @@||zohocdn.com^$ctag=user_child
 @@||zoho.eu^$ctag=user_child
