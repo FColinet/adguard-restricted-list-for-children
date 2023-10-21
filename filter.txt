@@ -10,6 +10,8 @@
 @@||debian.org^$ctag=user_child
 @@||ubuntu.com^$ctag=user_child
 @@||microsoft.com^$ctag=user_child
+@@||microsoft.net^$ctag=user_child
+@@||windows.com^$ctag=user_child
 @@||windowsupdate.com^$ctag=user_child
 @@||intel.com^$ctag=user_child
 @@||intel.fr^$ctag=user_child
