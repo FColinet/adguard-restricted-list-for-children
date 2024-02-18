@@ -56,8 +56,10 @@
 @@||educartable.com^$ctag=user_child
 @@||edumoov.com^$ctag=user_child
 
-! Allowed stores
+! Allowed other
+@@||cloudfront.net^$ctag=user_child
 @@||amazon.com^$ctag=user_child
+@@||amazonaws.com^$ctag=user_child
 @@||amazon.fr^$ctag=user_child
 
 ! Allowed media services
