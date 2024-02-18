@@ -59,6 +59,7 @@
 ! Allowed other
 @@||cloudfront.net^$ctag=user_child
 @@||amazon.com^$ctag=user_child
+@@||ssl-images-amazon.com^$ctag=user_child
 @@||amazonaws.com^$ctag=user_child
 @@||amazon.fr^$ctag=user_child
 
