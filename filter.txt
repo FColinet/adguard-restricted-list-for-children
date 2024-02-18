@@ -57,6 +57,7 @@
 @@||edumoov.com^$ctag=user_child
 
 ! Allowed stores
+@@||amazon.com^$ctag=user_child
 @@||amazon.fr^$ctag=user_child
 
 ! Allowed media services
