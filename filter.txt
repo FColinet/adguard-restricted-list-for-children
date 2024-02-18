@@ -56,6 +56,9 @@
 @@||educartable.com^$ctag=user_child
 @@||edumoov.com^$ctag=user_child
 
+! Allowed stores
+@@||amazon.fr^$ctag=user_child
+
 ! Allowed media services
 @@||googlevideo.com^$ctag=user_child
 @@||youtubekids.com^$ctag=user_child
