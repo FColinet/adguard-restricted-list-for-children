@@ -98,6 +98,7 @@
 
 ! Allowed game services
 @@||live.com^$ctag=user_child
+@@||xbox.com^$ctag=user_child
 @@||xboxlive.com^$ctag=user_child
 @@||xboxab.com^$ctag=user_child
 @@||mojang.com^$ctag=user_child
