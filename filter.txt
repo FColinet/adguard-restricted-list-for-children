@@ -43,6 +43,9 @@
 @@||gvt1.com^$ctag=user_child
 @@||gvt2.com^$ctag=user_child
 
+! Allowed gouv services
+@@||gouv.fr^$ctag=user_child
+
 ! Allowed study services
 @@||duolingo.com^$ctag=user_child
 @@||khanacademy.org^$ctag=user_child
@@ -56,6 +59,8 @@
 @@||learningapps.org^$ctag=user_child
 @@||educartable.com^$ctag=user_child
 @@||edumoov.com^$ctag=user_child
+@@||index-education.com^$ctag=user_child
+@@||index-education.net^$ctag=user_child
 
 ! Allowed other
 @@||cloudfront.net^$ctag=user_child
