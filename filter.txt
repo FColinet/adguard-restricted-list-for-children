@@ -121,6 +121,11 @@
 @@||playfabapi.com^$ctag=user_child
 @@||minecraft.net^$ctag=user_child
 
+! Allowed TV services
+@@||tf1.fr^$ctag=user_child
+@@||france.tv^$ctag=user_child
+@@||m6.fr^$ctag=user_child
+
 ! Allowed chat services
 @@||discord.com^$ctag=user_child
 @@||discord.gg^$ctag=user_child
