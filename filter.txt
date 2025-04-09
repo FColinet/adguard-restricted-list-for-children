@@ -133,3 +133,10 @@
 ! Allowed NTP Servers
 @@||android.pool.ntp.org^$ctag=user_child
 @@||fr.pool.ntp.org^$ctag=user_child
+
+! Shopping 
+@@||lahalle.com^$ctag=user_child
+@@||kiabi.com^$ctag=user_child
+@@||decathlon.fr^$ctag=user_child
+@@||intersport.fr^$ctag=user_child
+@@||hm.com^$ctag=user_child
